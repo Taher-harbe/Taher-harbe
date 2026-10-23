@@ -1,73 +1,113 @@
+# Taher Harby | .NET Backend Developer
+
 <div align="center">
 
-# 👋 أهلاً، أنا طاهر حربي
-### Taher Harbi — .NET Developer
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Hello Coders" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
+### 👋 Hi, I'm Taher Harby
+
+**Aspiring .NET Backend Developer | C# | ASP.NET Core | SQL Server**
+
+I’m an IT student passionate about backend development, databases, and understanding how software systems work behind the scenes.
+
+I’m currently building my skills in the .NET ecosystem and working toward becoming a professional Backend Developer.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/taher-el-sayed-attia-5bbb92278/)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Repos-181717?style=flat&logo=github)](https://github.com/Taher-harbe)
+![Profile Views](https://komarev.com/ghpvc/?username=Taher-harbe&style=flat&color=blue&label=PROFILE+VIEWS)
 
 </div>
 
-<hr>
+---
 
-## 🚀 Tools I use
+## 👨‍💻 About Me
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat&logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
+- 🎯 Focused on **.NET Backend Development**.
+- 💻 Learning and practicing **C# and ASP.NET Core**.
+- 🗄️ Interested in database design, **SQL Server**, and query optimization.
+- 🧠 Enjoy solving problems and understanding how systems work internally.
+- 📚 Continuously learning software development fundamentals and best practices.
+- 🚀 Working toward building reliable, maintainable, and scalable backend applications.
+
+---
+
+## 🛠️ Tech Stack
+
+### Core Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+</p>
+
+### Currently Building My Skills
+
+<p>
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+</p>
+
+---
+
+## 📚 My Learning Roadmap
+
+- [ ] Strengthen C# and Object-Oriented Programming (OOP).
+- [ ] Practice Data Structures and Algorithms.
+- [ ] Master SQL Server and relational database design.
+- [ ] Learn ASP.NET Core Web API.
+- [ ] Work with Entity Framework Core.
+- [ ] Apply SOLID principles and clean coding practices.
+- [ ] Build backend projects and document them on GitHub.
+- [ ] Learn testing, authentication, and application security fundamentals.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taher-harbe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Taher's GitHub Statistics" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taher-harbe&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Taher-harbe&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+---
+
+## 💡 My Developer Mindset
 
 ```csharp
-// tools_I_use organized
-
-public class About : Me
+public class Developer
 {
-    public static readonly Dictionary<string, string[]> MyTools = new()
+    public string Name => "Taher Harby";
+
+    public string Role => ".NET Backend Developer";
+
+    public string[] MainTechnologies =>
     {
-        ["Languages"]  = new[] { "C#", "SQL", "JavaScript", "HTML", "CSS" },
-        ["Backend"]    = new[] { "ASP.NET Core", "Web API", "Entity Framework Core", "Dapper", "SignalR" },
-        ["Frontend"]   = new[] { "Blazor", "Razor Pages", "MVC" },
-        ["Database"]   = new[] { "SQL Server", "PostgreSQL", "SQLite" },
-        ["DevOps"]     = new[] { "Git", "Docker", "GitHub Actions", "Azure" },
-        ["Editors"]    = new[] { "Visual Studio", "VS Code", "Rider" },
-        ["Platforms"]  = new[] { "Windows", "Linux" },
+        "C#",
+        "ASP.NET Core",
+        "SQL Server"
     };
+
+    public string Mindset =>
+        "Learn, Build, Improve, Repeat";
 }
 ```
 
-## 👨‍💻 About me
-
-- 💼 مبرمج **.NET** بشتغل على تطبيقات الويب والـ APIs.
-- 🌱 بتعلّم حالياً: **Clean Architecture & Microservices**.
-- 🔭 شغال على مشروع: **[اسم المشروع]**.
-- 💬 اسألني عن: **C#, ASP.NET Core, Entity Framework, SQL Server**.
-- 📫 تواصل معايا: **[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)** | **[Email](mailto:YOUR_EMAIL)**
-- ⚡ Fun fact: **مفيش حاجة اسمها "It works on my machine" 😄**
-
-## 📊 GitHub Stats
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="49%" />
+### 🚀 Every expert was once a beginner.
 
-</div>
-
-<div align="center">
-
-**Code Cycle**
-
-😵‍💫 ➜ 😌 ➜ 😲
-
-*Broken → It works → It works but I don't know how!*
+**Learning today. Building tomorrow. Improving every day.**
 
 </div>
