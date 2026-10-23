@@ -1,6 +1,6 @@
  <div align="center">
 
-# 👋 Hi, I'm Taher Harby
+# 👋 Hi, I'm Taher Harbe
 
 ### 💻 Aspiring .NET Backend Developer | Software Development Student
 
